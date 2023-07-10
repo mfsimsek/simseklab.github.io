@@ -2357,7 +2357,6 @@ input, select, textarea {
 		select option {
 			color: #ffffff;
 			background: #312450;
-			<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="top center" /></a>
 		}
 
 		select:focus::-ms-value {
@@ -3525,8 +3524,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
-		<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="top center" /></a>
+		background: #312450 url(images/img01.jpg) no-repeat center top ;
 		cursor: default;
 		height: 100vh;
 		left: 0;
