@@ -3525,7 +3525,7 @@ input, select, textarea {
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
 		background-color: #312450;
-		background-image: url(images/pic01.jpg);
+		/*background-image: url(images/pic01.jpg);*/
 		cursor: default;
 		height: 100vh;
 		left: 0;
