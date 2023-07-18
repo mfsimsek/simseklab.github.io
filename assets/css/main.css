@@ -28,12 +28,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-body {
-    background-image: url('background_developingsystems.png');
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-    	background-size: cover;
-	color: #FFFFFF;
+body {    
 	line-height: 1;
 }
 
@@ -103,7 +98,12 @@ input, select, textarea {
 	}
 
 	body {
-		background: #878289;
+		background-image: url('background_developingsystems.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    	background-size: cover;
+	color: #FFFFFF;
+		/*background: #878289;*/
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
