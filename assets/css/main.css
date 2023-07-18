@@ -29,6 +29,11 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
+    background-image: url('background_developingsystems.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    	background-size: cover;
+	color: #FFFFFF;
 	line-height: 1;
 }
 
