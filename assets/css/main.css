@@ -98,12 +98,12 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url('background_developingsystems.png');
+		background-image: url('../../images/background_developingsystems.png');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
     	background-size: cover;
-	color: #FFFFFF;
-		/*background: #878289;*/
+	/*color: #FFFFFF;*/
+		background: #878289;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
