@@ -97,14 +97,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body {
-		background-image: url('../../images/background_developingsystems.png');
-		img {
-			opacity: 0.5;
-		}
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-    	background-size: cover;
+	body {		
 	/*color: #FFFFFF;*/
 		background: #878289;
 	}
