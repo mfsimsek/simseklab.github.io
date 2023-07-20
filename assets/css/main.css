@@ -3211,6 +3211,10 @@ input, select, textarea {
 			max-width: 100%;
 			width: 75em;
 		}
+img.make-it-fit {
+    max-width: 99%;
+    max-height: 99%;
+}
 
 			@media screen and (max-width: 1680px) {
 
