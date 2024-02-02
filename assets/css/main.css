@@ -2985,6 +2985,10 @@ input, select, textarea {
 				padding: 3em 0 0 0;
 			}
 
+			<style type="text/css">
+			p {margin-bottom: -1em;  margin-top: 0em;} 
+			</style>
+
 		}
 
 /* Spotlights */
